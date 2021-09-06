@@ -10,7 +10,9 @@ git init
 
 if [ $# -ge 2 ]; then
     echo "Generating license..."
-    license-generator install $2,, > LICENSE
+
+    license=$(echo "$2" | sed 's/.*/\L&/')
+    lice $license > LICENSE
     git add LICENSE
 fi
 
