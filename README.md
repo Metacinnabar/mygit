@@ -25,9 +25,9 @@
 [`(.gitignore)`](#gitignore) | The gitignore for the repository. | `VisualStudio` or `Node`                  | ❌ |
 
 ### License
-All possible licenses that can be generated: `agpl3`, `apache`, `bsd2`, `bsd3`, `cddl`, `cc0`, `epl`, `gpl2`, `gpl3`, `lgpl`, `mit`, and `mpl`.  
+All possible licenses: `agpl3`, `apache`, `bsd2`, `bsd3`, `cddl`, `cc0`, `epl`, `gpl2`, `gpl3`, `lgpl`, `mit`, and `mpl`.  
 Licenses are case insensitive.  
-Don't see the license you want? Refer to [licenses/lice](https://github.com/licenses/lice#i-want-xxxxxxxxx-license-in-here).
+Don't see the license you're looking for? Refer to [licenses/lice](https://github.com/licenses/lice#i-want-xxxxxxxxx-license-in-here).
 
 ### Gitignore
 All gitinore templates can be found here at [github/gitignore](https://github.com/github/gitignore).  
