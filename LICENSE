@@ -1,0 +1,6 @@
+[Error: ENOENT: no such file or directory, open '/usr/local/lib/node_modules/license-generator/licenses/MIT,,.txt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/usr/local/lib/node_modules/license-generator/licenses/MIT,,.txt'
+}
