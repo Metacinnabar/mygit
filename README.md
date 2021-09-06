@@ -2,8 +2,8 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/goodpro712/mygit/badge)](https://www.codefactor.io/repository/github/goodpro712/mygit)
 ![GitHub repo size](https://img.shields.io/github/repo-size/goodpro712/mygit)
 ![Lines of code](https://img.shields.io/tokei/lines/github/goodpro712/mygit)
-![GitHub](https://img.shields.io/github/license/goodpro712/mygit)
-![GitHub last commit](https://img.shields.io/github/last-commit/goodpro712/mygit)
+![License](https://img.shields.io/github/license/goodpro712/mygit)
+![Last commit](https://img.shields.io/github/last-commit/goodpro712/mygit)
 
 **Bash script to ease generating git repositories.**
 
