@@ -23,7 +23,7 @@ if [ $# -ge 3 ]; then
 fi
 
 echo "Pushing files to $1 in branch master..."
-git commit -m "Repo initialized by mygit" -m "https://github.com/GoodPro712/mygit/"
+git commit -m "Repo initialized by mygit" -m "https://github.com/Metacinnabar/mygit/"
 git branch -M master
 git remote add origin $1
 git push -u origin master
