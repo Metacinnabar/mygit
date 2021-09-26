@@ -1,9 +1,9 @@
 # Overview
-[![CodeFactor](https://www.codefactor.io/repository/github/goodpro712/mygit/badge)](https://www.codefactor.io/repository/github/goodpro712/mygit)
-![GitHub repo size](https://img.shields.io/github/repo-size/goodpro712/mygit)
-![Lines of code](https://img.shields.io/tokei/lines/github/goodpro712/mygit)
-![License](https://img.shields.io/github/license/goodpro712/mygit)
-![Last commit](https://img.shields.io/github/last-commit/goodpro712/mygit)
+[![CodeFactor](https://www.codefactor.io/repository/github/metacinnabar/mygit/badge)](https://www.codefactor.io/repository/github/metacinnabar/mygit)
+![GitHub repo size](https://img.shields.io/github/repo-size/Metacinnabar/mygit)
+![Lines of code](https://img.shields.io/tokei/lines/github/Metacinnabar/mygit)
+![License](https://img.shields.io/github/license/Metacinnabar/mygit)
+![Last commit](https://img.shields.io/github/last-commit/Metacinnabar/mygit)
 
 **Bash script to ease generating git repositories.**
 
@@ -12,7 +12,7 @@
 ## Setup
 
 \- **Assuming [pip](https://pip.pypa.io/en/stable/) or [lice](https://github.com/licenses/lice) is installed.**
-- Clone the repository (`git clone https://github.com/GoodPro712/mygit.git && cd mygit`).
+- Clone the repository (`git clone https://github.com/Metacinnabar/mygit.git && cd mygit`).
 - Run the installer (`sudo chmod +x setup.sh && bash setup.sh`).
 
 ## Command Arguments
@@ -20,7 +20,7 @@
 
 | arguments | description | example | required |
 | - | - | - | - |
-`[giturl]`     | The repository url to push to.    | `https://github.com/GoodPro712/mygit.git` | ⭐ |
+`[giturl]`     | The repository url to push to.    | `https://github.com/Metacinnabar/mygit.git` | ⭐ |
 [`(license)`](#license)    | The license for the repository.   | `MIT` or `Apache`                         | ❌ |
 [`(.gitignore)`](#gitignore) | The gitignore for the repository. | `VisualStudio` or `Node`                  | ❌ |
 
@@ -34,7 +34,7 @@ All gitinore templates can be found here at [github/gitignore](https://github.co
 Gitignores are case sensitive.
 
 ## Support
-For any bug reports, questions, or requests, create an issue via the [issue tracker](https://github.com/GoodPro712/mygit/issues).
+For any bug reports, questions, or requests, create an issue via the [issue tracker](https://github.com/Metacinnabar/mygit/issues).
 
 ## License
-mygit is licensed under the [MIT License](https://github.com/GoodPro712/mygit/blob/master/LICENSE).
+mygit is licensed under the [MIT License](https://github.com/Metacinnabar/mygit/blob/master/LICENSE).
