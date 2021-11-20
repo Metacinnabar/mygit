@@ -19,6 +19,7 @@ fi
 if [ $# -ge 3 ]; then
     echo "Downloading .gitignore..."
     wget "https://raw.githubusercontent.com/github/gitignore/master/$3.gitignore"
+    mv $3.gitignore .gitignore
     git add .gitignore
 fi
 
