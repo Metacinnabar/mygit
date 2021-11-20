@@ -3,7 +3,7 @@
 if ! [ -x "$(command -v lice)" ]; then
     read -r -p "Do you wish to install lice (via pip)? [Y/n]" reply
     case $reply in
-        [Yy]* ) pip install lice;;
+        [Yy]* ) sudo pip install lice;;
         * ) echo "Exitting..."; exit;;
     esac
 fi
